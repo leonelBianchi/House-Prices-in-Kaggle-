@@ -15,3 +15,5 @@ Models used:
      	11. SVR()     // 	suppor vector regressor
 
 First we analyze and clean the data. Then, we calculate the error for each model. We choose one of them based on the minimum error. It was Lasso(). Finally, we train the model and generate a .csv file that contains the predictions (SalePrice $$)
+
+## script used as a part of a course, not completely an own production ##
